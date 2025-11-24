@@ -1,7 +1,7 @@
 # punkverse-GJ25-K-BAT
- <h3>Project name:</h3><h5>Not decided the name yet</h5>
- <h3>Team name: K-BAT</h3>
- <h3>Team members:</h3>
+ <h2>Project name:</h2><h5>Not decided the name yet</h5>
+ <h2>Team name: K-BAT</h2>
+ <h2>Team members:</h2>
  <ol>
    <ul>Md Golam Murtuja Kayes</ul>
    <ul>Md Tareq Aziz</ul>
